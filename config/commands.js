@@ -1764,9 +1764,9 @@ var commands = exports.commands = {
         	if (!this.canBroadcast()) return;
         	this.sendReplyBox('<center><img height="120" src="http://fc03.deviantart.net/fs23/f/2007/324/4/d/Stitch_as_a_Sableye_by_Alondra_chui.jpg">' +
         		'<img src="http://i.imgur.com/nCiO1HM.png" height="100">' +
-        		'<img src="http://0-media-cdn.foolz.us/ffuuka/board/vp/image/1366/15/1366155142332.png" height="100"><br />' +
+        		'<img src="http://fc06.deviantart.net/fs71/f/2013/365/b/a/vivillon_demotivatior_by_crvemaster-d707mq0.jpg" height="100"><br />' +
         		'<b>Ace: </b> Vivillon<br />' +
-        		'<b>Catchphrase: </b>As Long As You Have a Fire In Your Heart To Do Something, Do it, Because That Fire Wont Be Burning Forever and Shall Soon Diminish.</center>');
+        		'<b>Catchphrase: </b>Assclapped!.</center>');
     },
         
 	angel : 'angel', 
