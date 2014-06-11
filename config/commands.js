@@ -1113,7 +1113,7 @@ var commands = exports.commands = {
 	 
 	 adam: function(target, room, user) {
 	 	if (!this.canBroadcast()) return;
-	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i.minus.com/iUTbYOS2OZ56y.gif"></center>');
+	 	return this.sendReply('|raw|<center><img width="300" height="169" src="http://i947.photobucket.com/albums/ad312/Silver_Eyed_Crow/IFzXYIsUq9YrF_zps1e81904b.gif?t=1402450287"></center>');
 	 },
 	 	 
 	 ama: function(target, room, user) {
